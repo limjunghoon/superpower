@@ -1,9 +1,6 @@
-﻿---
-layout: post
+﻿
 title:  "Superpower test1"
-date:   2015-04-14 12:07:10
-categories: jekyll update
----
+
 2015.03.26 미래관5층 14:00~17:20 1차 아이디어 회의 진행
 회의내용
 
@@ -40,16 +37,3 @@ categories: jekyll update
 [출처] 2015.03.26 소프트웨어공학 SuperPower팀 1차 아이디어 회의 |작성자 limjung0515
 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
