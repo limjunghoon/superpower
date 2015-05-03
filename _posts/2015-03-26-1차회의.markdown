@@ -95,9 +95,9 @@
 
 </p>
 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">주제 하나하나를 토론하고 상담하고 앞으로의 실천모습들을 생각해 보았을 때, 뚜렷히 한 주제가 떠오른건 아니지만 여러 주제가 많은 가능성들을 가지고 있는 것으로 보입니다. 그리고 직접 손 대고 해보면서 할 수 있는 것과 할 수 없는 것들을 실험해 나가는 방향으로 선택했습니다.
+<div class="highlight"><code class="language-ruby" data-lang="ruby"><span class="k">주제 하나하나를 토론하고 상담하고 앞으로의 실천모습들을 생각해 보았을 때, 뚜렷히 한 주제가 떠오른건 아니지만 여러 주제가 많은 가능성들을 가지고 있는 것으로 보입니다. 그리고 직접 손 대고 해보면서 할 수 있는 것과 할 수 없는 것들을 실험해 나가는 방향으로 선택했습니다.
  프로젝트로 선택된 주제는 1.3 말 꺼내기 전에 돈 갚아! 프로젝트입니다.
-</span><span class="k">[출처] 2015.03.26 소프트웨어공학 SuperPower팀 1차 아이디어 회의 |작성자 limjung0515</span></code></pre></div>
+</span><span class="k">[출처] 2015.03.26 소프트웨어공학 SuperPower팀 1차 아이디어 회의 |작성자 limjung0515</span></code></div>
 
 
   </article>
