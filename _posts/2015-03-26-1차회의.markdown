@@ -12,7 +12,6 @@
   <link rel="canonical" href="http://gpwlsdl21.github.io/superpower/superpower/jekyll/update/2015/04/14/welcome-to-jekyll.html">
   <link rel="alternate" type="application/atom+xml" title="SuperPower Team" href="http://gpwlsdl21.github.io/superpower/superpower/feed.xml" />
 </head>
-</html> 
 
  <body>
 
@@ -169,3 +168,5 @@
 
 
   </body>
+
+</html>
