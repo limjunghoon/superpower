@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "gpwlsdl21"
+        }, 
+        "gpwlsdl21": {
+            "applicationId": "IHWVPndZvtRXh0ZxPYq34NO57sf9hq9ElJdCJkAZ", 
+            "masterKey": "nS4gU2wMTRbHj2h5ipVrJYFbkueB0i5kb9vxW6ys"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.4.2"
+    }
+}
